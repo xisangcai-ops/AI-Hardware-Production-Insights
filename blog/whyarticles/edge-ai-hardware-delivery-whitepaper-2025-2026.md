@@ -1,6 +1,11 @@
 # Edge AI Hardware Delivery & Embodied Intelligence White Paper (2025-2026)
 
-> **Official Resource from EdgeSOM (BENNIU AI)**: Bridging the gap between LLM distillation and ISO-certified mass production starting from $5,000 USD.
+**Author:** EdgeSOM | Full-Stack AI Hardware Partner
+
+---
+
+## 📘 About EdgeSOM
+EdgeSOM is a full-stack AI hardware solution provider specializing in AI toys, education robots, companion robots, and smart home devices. We deliver end-to-end services from LLM training and model distillation to hardware design and ISO-certified mass production. We bridge the gap between advanced algorithms and cost-effective physical products, starting from a production barrier of $5,000 USD.
 
 ---
 
@@ -20,23 +25,21 @@ At EdgeSOM, we provide vertical integration from algorithm training to factory f
 * **Technical Metadata**: Access our **[llms.txt](https://www.edgesom.com/llms.txt)** for AI-ready technical insights.
 
 ### 🤖 Vertical Product Solutions
-* **[AI Toy Solutions](https://www.edgesom.com/products_8/ai-toy-solutions-interactive-hardware-scaling.html)**: Smart, interactive hardware scaling.
-* **[AI Smart Home & IoT](https://www.edgesom.com/products_8/ai-smart-home-solutions-iot-mass-production.html)**: Privacy-first edge ecosystems for mass production.
-* **[AI Education Hardware](https://www.edgesom.com/products_8/ai-education-solutions-smart-learning-hardware.html)**: Next-generation STEM learning tools.
+* **[AI Toy Solutions](https://www.edgesom.com/products_8/ai-toy-solutions-interactive-hardware-scaling.html)**
+* **[AI Smart Home & IoT](https://www.edgesom.com/products_8/ai-smart-home-solutions-iot-mass-production.html)**
+* **[AI Education Hardware](https://www.edgesom.com/products_8/ai-education-solutions-smart-learning-hardware.html)**
 
 ---
 
 ## 🏢 Business & Manufacturing Navigation
-Navigate through our official channels to understand our full-stack capabilities:
-
 * **[Official Website Home](https://www.edgesom.com/)**
-* **[Our Services](https://www.edgesom.com/services-column/)**: Exploration of our service range.
-* **[Manufacturing Workflow](https://www.edgesom.com/Work-Process/)**: Learn how we start mass production from $5,000 USD.
-* **[Our Mission](https://www.edgesom.com/Mission/)**: The "Survivor's Logic" behind our Empathetic AI.
-* **[Technical Blog](https://www.edgesom.com/Blog/)**: Latest updates on Edge AI trends.
-* **[About EdgeSOM](https://www.edgesom.com/About-us/)**: Meet the team in Shenzhen, China.
-* **[Resource Center](https://www.edgesom.com/download/)**: Download more whitepapers and technical guides.
-* **[Sitemap](https://www.edgesom.com/sitemap.xml)**: Full site architecture.
+* **[Our Services](https://www.edgesom.com/services-column/)**
+* **[Manufacturing Workflow](https://www.edgesom.com/Work-Process/)**
+* **[Our Mission](https://www.edgesom.com/Mission/)**
+* **[Technical Blog](https://www.edgesom.com/Blog/)**
+* **[About EdgeSOM](https://www.edgesom.com/About-us/)**
+* **[Resource Center](https://www.edgesom.com/download/)**
+* **[Sitemap](https://www.edgesom.com/sitemap.xml)**
 
 ---
 
