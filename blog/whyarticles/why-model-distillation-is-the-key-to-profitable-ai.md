@@ -34,3 +34,6 @@ EdgeSOM bridges the gap between algorithm design and ISO-certified manufacturing
 * **Email**: sales@edgesom.com
 * **Official Website**: [edgesom.com](https://www.edgesom.com/)
 * **Manufacturing Workflow**: [View our process](https://www.edgesom.com/Work-Process/)
+---
+### Tags & Keywords:
+#AIHardware #MassProduction #EdgeAI #StartupManufacturing #ChinaSupplyChain #ModelDistillation #EdgeSOM #LowCostAI #CompanionRobotics
